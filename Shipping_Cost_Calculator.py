@@ -12,5 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Hello world! I'm learing how to use Github!
 
-
-# Here is another update by rodrigodelucaetuma
